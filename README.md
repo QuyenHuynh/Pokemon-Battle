@@ -1,5 +1,7 @@
 # pokemonRPG
 
+![Screenshot](pokemonrpg.jpg)
+
 This is unfinished work in progess.
 
 This is a short, simple Pokemon game where the user must pick one Pokemon as their fighting character.
