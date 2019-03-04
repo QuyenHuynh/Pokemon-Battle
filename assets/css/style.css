@@ -1,0 +1,67 @@
+#pokeheader {
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+    right: 45px;
+}
+body {
+    background-image: url(../images/stadium.png);
+}
+#choosepoke {
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    position: absolute;
+    left: 35.5%;
+    top: 30%;
+}
+#charselect {
+    position: relative;
+    right: 220px;
+    top: 40px;
+}
+.health {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+#clefairydiv {
+    float: left;
+}
+#clefairy{
+    padding: 20px;
+}
+#milktankdiv {
+    float: left;
+}
+#milktank {
+    padding: 20px;
+}
+#skittydiv {
+    float: left;
+}
+#skitty {
+    padding: 20px;
+}
+#skittydiv {
+    float: left;
+}
+#snubbulldiv {
+    float: left;
+}
+#snubbull {
+    padding: 20px;
+}
+
+/*On hover*/
+#clefairy:hover {
+    height: 180px;
+}
+#milktank:hover {
+    height: 230px;
+}
+#skitty:hover {
+    height: 230px;
+}
+#snubbull:hover {
+    height: 230px;
+}
