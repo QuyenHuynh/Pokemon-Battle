@@ -1,4 +1,4 @@
-# pokemonRPG
+# Pokemon-Battle
 
 ![Screenshot](pokemonrpg.jpg)
 
